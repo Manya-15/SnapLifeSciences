@@ -1,0 +1,36 @@
+{
+  "analyzed_company": "Pfizer",
+  "deprioritization_report": [
+    {
+      "asset_name": "PF-06463922",
+      "reason_for_deprioritization": "Asset has been in Phase 2 for 3 years with recruitment challenges, indicating a high risk of failure and significant opportunity cost.",
+      "recommended_action": "Evaluate trial design for fatal flaws. If unresolvable, de-prioritize and reallocate resources."
+    },
+    {
+      "asset_name": "Liptor (Atorvastatin)",
+      "reason_for_deprioritization": "Patent expired in 2011, facing heavy generic competition with minimal remaining ROI.",
+      "recommended_action": "Cease all promotional support. Maintain for supply chain purposes only."
+    }
+  ],
+  "diversification_opportunities": [
+    {
+      "area_of_opportunity": "Immuno-Oncology",
+      "suggested_modality": "Small Molecule",
+      "justification": "While Merck's Keytruda (biologic) is dominant, there is a market for oral small-molecule immuno-oncology drugs that could complement existing therapies. Pfizer's portfolio is light in this next-generation IO area."
+    }
+  ],
+  "pipeline_gaps_report": [
+    {
+      "pipeline_gap": "Lack of early-stage candidates in cardiovascular space post-Liptor.",
+      "suggested_asset_profile": "A pre-clinical or Phase 1 asset targeting a novel cardiovascular pathway like PCSK9 or lipoprotein(a).",
+      "justification": "The company has a historical strength in cardiovascular but lacks future growth drivers in the pipeline after the loss of exclusivity for major drugs."
+    }
+  ],
+  "new_indication_opportunities": [
+    {
+      "asset_name": "Ibrance (Palbociclib)",
+      "suggested_new_indication": "Other hormone-receptor-positive solid tumors (e.g., Ovarian Cancer)",
+      "evidence_and_justification": "Ibrance is a CDK4/6 inhibitor. The CDK4/6 pathway is implicated in the cell cycle of other HR+ tumors. Exploring this could expand the market and leverage existing clinical knowledge before patent expiry in 2027."
+    }
+  ]
+}
