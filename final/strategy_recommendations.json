@@ -1,0 +1,37 @@
+[
+  {
+    "filter": "asset_phenotype.stages_of_development",
+    "suggested_change": "Phase 2",
+    "reason": "Competitor PharmaNova has a successful Phase 2 asset (NovaCure-101) in the same therapeutic area (Oncology), indication (Lung Cancer), and mechanism of action (EGFR Inhibitor).  Progressing beyond Phase 1 increases the likelihood of attracting buyers and achieving higher sales potential."
+  },
+  {
+    "filter": "company_details.partner_status",
+    "suggested_change": "Partnered",
+    "reason": "PharmaNova's successful molecule, NovaCure-101, is partnered, suggesting that partnerships can significantly increase sales potential and access to wider markets.  Exploring strategic partnerships could be beneficial."
+  },
+  {
+    "filter": "peak_sales.1yr_sales_potential",
+    "suggested_change": "60",
+    "reason": "PharmaNova's NovaCure-101 has a projected 1-year sales potential of 60.  Setting a more ambitious, yet realistic, 1-year sales potential based on competitor data can improve the focus on achieving higher sales figures."
+  },
+  {
+    "filter": "peak_sales.5yr_sales_potential",
+    "suggested_change": "200",
+    "reason": "Based on competitor data (NovaCure-101), a 5-year sales potential of 200 is achievable for a similar asset in the same therapeutic area and stage of development.  Adding this filter provides a more comprehensive sales projection."
+  },
+  {
+    "filter": "asset_phenotype.route_of_administration",
+    "suggested_change": "Oral",
+    "reason": "Competitor data shows that oral administration (NovaCure-101) is a successful route for EGFR inhibitors in Lung Cancer. Specifying a route of administration can help focus development efforts and potentially improve marketability."
+  },
+  {
+    "filter": "deal_value.min",
+    "suggested_change": "20",
+    "reason": "While the current minimum deal value is 5, competitor data shows that deals for similar assets (MediBlock-Alpha) start at 20.  Adjusting the minimum deal value to reflect market realities can lead to more realistic deal valuations."
+  },
+  {
+    "filter": "deal_value.max",
+    "suggested_change": "90",
+    "reason": "Adjusting the maximum deal value to 90, based on competitor data (MediBlock-Alpha), provides a more realistic range for potential deals, avoiding overly optimistic valuations."
+  }
+]

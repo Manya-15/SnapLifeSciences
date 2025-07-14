@@ -1,0 +1,110 @@
+[
+  {
+    "company_id": "compA_001",
+    "company_name": "PharmaNova",
+    "molecules": [
+      {
+        "drug_name": "NovaCure-101",
+        "ndc_code": "101010",
+        "for_sale_status": "sold",
+        "asset_type": "molecule",
+        "deal_value": {
+          "min": 50,
+          "max": 200
+        },
+        "phenotype": {
+          "stage": "Phase 2",
+          "therapeutic_area": "Oncology",
+          "indication": "Lung Cancer",
+          "moa": "EGFR Inhibitor",
+          "route": "Oral",
+          "modality": "Small Molecule",
+          "patent_expiry": 2029
+        },
+        "company": {
+          "type": "Pharma",
+          "development_stage": "Clinical",
+          "hq": "USA",
+          "financial_status": "Growing",
+          "partner_status": "Partnered",
+          "territory": "Global"
+        },
+        "sales": {
+          "1yr": 60,
+          "5yr": 200,
+          "peak": 250
+        }
+      },
+      {
+        "drug_name": "NovaThera-202",
+        "ndc_code": "202020",
+        "for_sale_status": "for_purchase",
+        "asset_type": "platform",
+        "deal_value": {
+          "min": 100,
+          "max": 300
+        },
+        "phenotype": {
+          "stage": "Preclinical",
+          "therapeutic_area": "Neurology",
+          "indication": "Alzheimer's",
+          "moa": "Beta-Amyloid Inhibitor",
+          "route": "IV",
+          "modality": "Biologic",
+          "patent_expiry": 2035
+        },
+        "company": {
+          "type": "Biotech",
+          "development_stage": "Research",
+          "hq": "Germany",
+          "financial_status": "Stable",
+          "partner_status": "Unpartnered",
+          "territory": "EU"
+        },
+        "sales": {
+          "1yr": 10,
+          "5yr": 80,
+          "peak": 120
+        }
+      }
+    ]
+  },
+  {
+    "company_id": "compB_002",
+    "company_name": "MediCorp",
+    "molecules": [
+      {
+        "drug_name": "MediBlock-Alpha",
+        "ndc_code": "303030",
+        "for_sale_status": "all",
+        "asset_type": "molecule",
+        "deal_value": {
+          "min": 20,
+          "max": 90
+        },
+        "phenotype": {
+          "stage": "Phase 1",
+          "therapeutic_area": "Cardiology",
+          "indication": "Arrhythmia",
+          "moa": "Ion Channel Modulator",
+          "route": "Oral",
+          "modality": "Small Molecule",
+          "patent_expiry": 2032
+        },
+        "company": {
+          "type": "Pharma",
+          "development_stage": "Clinical",
+          "hq": "India",
+          "financial_status": "Expanding",
+          "partner_status": "Partnered",
+          "territory": "Asia"
+        },
+        "sales": {
+          "1yr": 35,
+          "5yr": 150,
+          "peak": 190
+        }
+      }
+    ]
+  }
+]
