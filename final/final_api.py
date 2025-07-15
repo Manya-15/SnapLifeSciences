@@ -9,7 +9,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 app = Flask(__name__)
 
 # --- Gemini API Key and Model ---
-os.environ["GOOGLE_API_KEY"] = "AIzaSyC4q-ry8oPTjBHDP1suYrtB2PX52MXREwg"
+os.environ["GOOGLE_API_KEY"] = "key"
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.3)
 parser = JsonOutputParser()
 
